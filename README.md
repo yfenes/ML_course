@@ -1,6 +1,8 @@
 # ML_course
 CMPE462 Machine Learning course projects in Jupyter Notebook format
 
+Bonus: Senior year project poster. "Country Prediction on Social Media Using Machine Learning"
+
 PS1: One cannot run project 1 because the data is not provided by me because it can be used again for the course in the future years.
 
 PS2: To run the Term Project code, one has to:
